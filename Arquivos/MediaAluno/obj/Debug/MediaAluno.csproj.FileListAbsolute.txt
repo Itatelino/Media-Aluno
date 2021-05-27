@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.Form1.resources
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\PC\source\repos\MediaAluno\Media do Aluno\MediaAluno\obj\Debug\MediaAluno.pdb
